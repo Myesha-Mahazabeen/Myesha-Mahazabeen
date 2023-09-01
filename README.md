@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="600px">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="600px">
 <h1>Hey there! I am Myesha Mahazabeen <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I am an aspiring **Software Engineer & Web Developer**, currently studying Computer Science at the City College of New York

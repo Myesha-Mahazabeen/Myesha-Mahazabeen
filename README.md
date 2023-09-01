@@ -13,8 +13,8 @@ I am an aspiring **Software Engineer & Web Developer**, currently studying Compu
 
 **Web Development Technologies**
 
-<img title="HTML" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-|--|--|--|--|
+<img title="HTML" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img alt="React" title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+|--|--|--|--|--|
 
 
 **Databases**

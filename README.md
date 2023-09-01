@@ -8,7 +8,7 @@ I am an aspiring **Software Engineer & Web Developer** studying Computer Science
 
 **Programming Languages**
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="Scheme" title="Scheme" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/scheme/scheme.png">
+<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="R" title="R" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
 
 
 

@@ -33,4 +33,4 @@ I am an aspiring **Software Engineer & Web Developer**, currently studying Compu
 
 <a href="https://www.linkedin.com/in/myesha-mahazabeen-6a73a317a/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Myesha-Mahazabeen)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Myesha-Mahazabeen&theme=date-night)](https://git.io/streak-stats)

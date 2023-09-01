@@ -20,6 +20,7 @@ I am an aspiring **Software Engineer & Web Developer** studying Computer Science
 **Databases**
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+|--|--|
 
 
 **Tools**

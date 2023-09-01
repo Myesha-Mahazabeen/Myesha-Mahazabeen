@@ -3,7 +3,10 @@
 
 I am an aspiring **Software Engineer & Web Developer** studying Computer Science at the City College of New York. 
 
-## Skills :bulb:
+## Skills <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
+</picture>
 
 
 **Programming Languages**

@@ -29,7 +29,7 @@ I am an aspiring **Software Engineer & Web Developer** studying Computer Science
 |--|--|--|--|--|
 
 
-## Let's Connect :handshake:
+## Let's Connect <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"></picture>
 
 <a href="https://www.linkedin.com/in/myesha-mahazabeen-6a73a317a/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 

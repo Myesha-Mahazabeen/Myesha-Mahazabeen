@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="500px">
-<h1>Hey there! I am Myesha Mahazabeen <img  src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="50px"></h1>
+<h1>Hey there! I am Myesha Mahazabeen <img  src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="60px"></h1>
 
 I am an aspiring **Software Engineer & Web Developer**, currently studying Computer Science at the City College of New York
 

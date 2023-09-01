@@ -3,8 +3,8 @@
 
 I am an aspiring **Software Engineer & Web Developer** studying Computer Science at the City College of New York. 
 
-## Skills 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
+## Skills :bulb:
+
 
 **Programming Languages**
                                                                                                                

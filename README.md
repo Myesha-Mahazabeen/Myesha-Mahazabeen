@@ -3,7 +3,7 @@
 
 I am an aspiring **Software Engineer & Web Developer** studying Computer Science at the City College of New York. 
 
-## Skills :bulb:
+## Skills <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bulb.gif" width="30px">
 
 
 **Programming Languages**

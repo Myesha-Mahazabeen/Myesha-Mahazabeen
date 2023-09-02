@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="500px">
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="500px">
 <h1>Hey there! I am Myesha Mahazabeen <img  src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="60px"></h1>
 
 I am an aspiring **Software Engineer & Web Developer**, currently studying Computer Science at the City College of New York
@@ -33,9 +33,12 @@ I am an aspiring **Software Engineer & Web Developer**, currently studying Compu
 
 <a href="https://www.linkedin.com/in/myesha-mahazabeen-6a73a317a/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
-## Git Stats :fire:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Myesha-Mahazabeen&theme=date-night)](https://git.io/streak-stats)
+## Coding Jams <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="🎶" width="32" height="32"></picture>
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
+## Git Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Myesha-Mahazabeen&theme=date-night)](https://git.io/streak-stats)
 

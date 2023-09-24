@@ -40,5 +40,3 @@ I am an aspiring **Software Engineer & Web Developer**, currently studying Compu
 
 ## Git Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Myesha-Mahazabeen&theme=date-night)](https://git.io/streak-stats)
-
